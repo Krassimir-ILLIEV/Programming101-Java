@@ -2,7 +2,7 @@ import java.util.Hashtable;
 
 public class Problem33  {
     
-	//SMS100
+	//This is "SMS100" problem
     private static String[] numberToLetters = { " ", "", "abc2", "def3", "ghi4", "jkl5", "mno6", "pqrs7", "tuv8", "wxyz9" };
 
     private static int[] convertToArray(String str) {
