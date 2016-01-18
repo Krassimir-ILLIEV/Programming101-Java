@@ -9,6 +9,7 @@ The course is happening thanks to:
 [![Paysafe](partners/Paysafe.jpg)](https://www.paysafe.com/)
 [![Proxiad Bulgaria](partners/ProxiadBulgaria.png)](http://www.proxiad.com/english/)
 [![Axway](partners/Axway.png)](https://www.axway.com/en)
+[![SAP Labs Bulgaria](partners/SAP_Labs_Bulgaria.png)](https://go.sap.com/bulgaria/index.html)
 
 ## Course Program
 
@@ -50,7 +51,6 @@ This is a detailed program about the course, separated in weeks
 * Third take on Java OOP concepts
   * Implementing multiple interfaces
   * Nested & Anonymous classes.
-  * Static constructors
   * Java OOP quirks
 
 ### Week 7
