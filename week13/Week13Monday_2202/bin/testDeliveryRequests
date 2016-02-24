@@ -1,0 +1,3 @@
+delivery 1 timestamp 41-41 productName1 7 productName2 8
+supply 2 timestamp productName1 10 11 productName2 12 13 productName3 14 15 productName4 15 16
+delivery 2 timestamp 40-40 productName1 100 productName2 9
